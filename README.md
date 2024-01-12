@@ -29,3 +29,7 @@ Welcome to the Hotel Booking Site! This project allows users to add and book hot
 ## Home Page When Not Logged In
 <img src="https://github.com/Shivam-Sanjay-Nikam/Hotel-booking-site/blob/main/ABB_PICS/home.png" alt="Home Page Not Logged In" width="500">
 
+## TO RUN
+API--> npm i ---> node index.js
+CLIENT--> yarn install --->yarn dev
+
